@@ -1,0 +1,8 @@
+{
+"name":"windows",
+
+"description":"Standard windows checks, like CPU, RAM and disk space. Checks are done by NRPE.",
+
+"path" : "os/",
+
+}
